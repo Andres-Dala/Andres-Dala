@@ -17,7 +17,7 @@ Por último, como investigador y fanático de problemas matemático-informaticos
 
 * Soy colaborador en el paquete de R: [Bayesforecast](https://github.com/Andres-Dala/bayesforecast)
 * Investigación: Metodología para la predicción con modelos SARIMA Bayesianos. [Research](https://github.com/Andres-Dala/Seminario_de_Investigacion_MM700/blob/main/Documentacion/Reporte%20Final.pdf)
-* Actual participante en la solución de problemas mediante algoritmos en la pagina [Project Euler](https://projecteuler.net/about](https://github.com/Andres-Dala/Basic_algorithms/blob/main/Proyecto%20Euler.ipynb)
+* Actual participante en la solución de problemas matemáticos mediante algoritmos en la pagina Project Euler. [Algorithms](https://github.com/Andres-Dala/Basic_algorithms/blob/main/Proyecto%20Euler.ipynb)
 
 Algunos ejemplos de mis trabajos son:
 

@@ -14,7 +14,7 @@ Como Cientifico de datos tengo experiencia en:
 * Implementación de algoritmos y estructuras de datos.
 
 Por último, como investigador y fanático de problemas matemático-informaticos he realizado:
-
+* Investigación y desarrollo de póster: Introducción a la geoestadística espacial por le método Kriging [Poster](https://github.com/Andres-Dala/Basic_algorithms/blob/main/Poster%20Kriging.pdf)
 * Soy colaborador en el paquete de R: [Bayesforecast](https://github.com/Andres-Dala/bayesforecast)
 * Investigación: Metodología para la predicción con modelos SARIMA Bayesianos. [Research](https://github.com/Andres-Dala/Seminario_de_Investigacion_MM700/blob/main/Documentacion/Reporte%20Final.pdf)
 * Actual participante en la solución de problemas matemáticos mediante algoritmos en la pagina Project Euler. [Algorithms](https://github.com/Andres-Dala/Basic_algorithms/blob/main/Proyecto%20Euler.ipynb)
